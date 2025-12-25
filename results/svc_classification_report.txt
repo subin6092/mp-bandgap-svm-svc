@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+ nonmetal(0)       0.92      0.92      0.92       494
+    metal(1)       0.92      0.92      0.92       491
+
+    accuracy                           0.92       985
+   macro avg       0.92      0.92      0.92       985
+weighted avg       0.92      0.92      0.92       985

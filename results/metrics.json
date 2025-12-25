@@ -1,0 +1,42 @@
+{
+  "run_info": {
+    "timestamp": "2025-12-24T12:35:07",
+    "random_state": 42,
+    "notes": "Two-stage SVM: SVC (metal vs nonmetal) + SVR (gap for nonmetals), Magpie-like composition features via matminer."
+  },
+  "svc": {
+    "best_params": {
+      "svc__C": 10,
+      "svc__gamma": "scale"
+    },
+    "accuracy": 0.917766497461929,
+    "balanced_accuracy": 0.9177688267354899,
+    "precision_metal_1": 0.9166666666666666,
+    "recall_metal_1": 0.9185336048879837,
+    "f1_metal_1": 0.9175991861648016,
+    "confusion_matrix_rows_true_cols_pred": [
+      [
+        453,
+        41
+      ],
+      [
+        40,
+        451
+      ]
+    ],
+    "roc_auc": 0.9665888833002136
+  },
+  "svr": {
+    "best_params": {
+      "svr__C": 10,
+      "svr__epsilon": 0.1,
+      "svr__gamma": "scale"
+    },
+    "test_rmse_eV": 0.6202368536093674,
+    "test_mae_eV": 0.39842259782088046,
+    "test_r2": 0.8150097522000652,
+    "train_cv5_rmse_eV": 0.687186965842157,
+    "train_cv5_mae_eV": 0.4348892182548085,
+    "train_cv5_r2": 0.7817191522371097
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "formula": "MnF2",
+    "true_gap_eV": 9.9,
+    "pred_gap_eV": 5.654085785543213,
+    "abs_error_eV": 4.245914214456787
+  },
+  {
+    "formula": "Ho2S3",
+    "true_gap_eV": 0.5,
+    "pred_gap_eV": 2.927790824448778,
+    "abs_error_eV": 2.427790824448778
+  },
+  {
+    "formula": "Na7(CoO3)2",
+    "true_gap_eV": 0.5,
+    "pred_gap_eV": 2.885014604695821,
+    "abs_error_eV": 2.385014604695821
+  },
+  {
+    "formula": "Ti1C0.9",
+    "true_gap_eV": 0.3,
+    "pred_gap_eV": 2.515217099613258,
+    "abs_error_eV": 2.215217099613258
+  },
+  {
+    "formula": "NaB15",
+    "true_gap_eV": 0.32,
+    "pred_gap_eV": 2.4820690445644225,
+    "abs_error_eV": 2.1620690445644226
+  },
+  {
+    "formula": "AgCl",
+    "true_gap_eV": 5.13,
+    "pred_gap_eV": 2.9927687421585847,
+    "abs_error_eV": 2.137231257841415
+  },
+  {
+    "formula": "TiFe2Si",
+    "true_gap_eV": 0.4,
+    "pred_gap_eV": 2.515217099613258,
+    "abs_error_eV": 2.115217099613258
+  },
+  {
+    "formula": "KB5PbO9",
+    "true_gap_eV": 3.1,
+    "pred_gap_eV": 5.095202675710051,
+    "abs_error_eV": 1.995202675710051
+  },
+  {
+    "formula": "MnO",
+    "true_gap_eV": 3.6,
+    "pred_gap_eV": 1.6424018458607017,
+    "abs_error_eV": 1.9575981541392984
+  },
+  {
+    "formula": "LiF",
+    "true_gap_eV": 11.7,
+    "pred_gap_eV": 9.803471672991684,
+    "abs_error_eV": 1.8965283270083155
+  },
+  {
+    "formula": "La2HfS5",
+    "true_gap_eV": 0.7,
+    "pred_gap_eV": 2.388871725534397,
+    "abs_error_eV": 1.688871725534397
+  },
+  {
+    "formula": "ZrC",
+    "true_gap_eV": 0.6,
+    "pred_gap_eV": 2.21118043386136,
+    "abs_error_eV": 1.6111804338613598
+  },
+  {
+    "formula": "ScHg",
+    "true_gap_eV": 0.24,
+    "pred_gap_eV": 1.8151394936480743,
+    "abs_error_eV": 1.5751394936480743
+  },
+  {
+    "formula": "BSb",
+    "true_gap_eV": 2.6,
+    "pred_gap_eV": 1.0406758092532205,
+    "abs_error_eV": 1.5593241907467796
+  },
+  {
+    "formula": "BaLa2Te5O14",
+    "true_gap_eV": 3.81,
+    "pred_gap_eV": 2.2578204937207245,
+    "abs_error_eV": 1.5521795062792756
+  },
+  {
+    "formula": "RbNb4Br11",
+    "true_gap_eV": 0.46,
+    "pred_gap_eV": 1.96662808990957,
+    "abs_error_eV": 1.50662808990957
+  },
+  {
+    "formula": "Cs2Sb",
+    "true_gap_eV": 0.62,
+    "pred_gap_eV": 2.0870292298120403,
+    "abs_error_eV": 1.4670292298120402
+  },
+  {
+    "formula": "La20Mo12Cl4O63",
+    "true_gap_eV": 2.4,
+    "pred_gap_eV": 3.862698979364874,
+    "abs_error_eV": 1.4626989793648741
+  },
+  {
+    "formula": "TaCu3S4",
+    "true_gap_eV": 3.0,
+    "pred_gap_eV": 1.5533335070122525,
+    "abs_error_eV": 1.4466664929877475
+  },
+  {
+    "formula": "Ta2O5",
+    "true_gap_eV": 4.2,
+    "pred_gap_eV": 2.7622345320449497,
+    "abs_error_eV": 1.4377654679550504
+  },
+  {
+    "formula": "SiSb",
+    "true_gap_eV": 1.9,
+    "pred_gap_eV": 0.4648821080965613,
+    "abs_error_eV": 1.4351178919034386
+  },
+  {
+    "formula": "CsB3O5",
+    "true_gap_eV": 7.42,
+    "pred_gap_eV": 6.002384227104951,
+    "abs_error_eV": 1.417615772895049
+  },
+  {
+    "formula": "LiZnBO3",
+    "true_gap_eV": 3.1,
+    "pred_gap_eV": 4.4910241186748765,
+    "abs_error_eV": 1.3910241186748764
+  },
+  {
+    "formula": "CeN",
+    "true_gap_eV": 0.7,
+    "pred_gap_eV": 1.97472024090504,
+    "abs_error_eV": 1.27472024090504
+  },
+  {
+    "formula": "LiCl",
+    "true_gap_eV": 9.33,
+    "pred_gap_eV": 8.075418097581366,
+    "abs_error_eV": 1.254581902418634
+  },
+  {
+    "formula": "CeF3",
+    "true_gap_eV": 4.85,
+    "pred_gap_eV": 3.5963508737775793,
+    "abs_error_eV": 1.2536491262224203
+  },
+  {
+    "formula": "NaInS2",
+    "true_gap_eV": 1.9,
+    "pred_gap_eV": 3.1464093999637206,
+    "abs_error_eV": 1.2464093999637207
+  },
+  {
+    "formula": "Th2GeSe2",
+    "true_gap_eV": 1.98,
+    "pred_gap_eV": 0.7713492670352571,
+    "abs_error_eV": 1.208650732964743
+  },
+  {
+    "formula": "Sr2Pr2Pt1O7.07",
+    "true_gap_eV": 3.05,
+    "pred_gap_eV": 1.8788907811093336,
+    "abs_error_eV": 1.1711092188906662
+  },
+  {
+    "formula": "ZnTc",
+    "true_gap_eV": 2.37,
+    "pred_gap_eV": 1.2000783159160107,
+    "abs_error_eV": 1.1699216840839894
+  },
+  {
+    "formula": "Sb2PbSe4",
+    "true_gap_eV": 1.8,
+    "pred_gap_eV": 0.7093341637933654,
+    "abs_error_eV": 1.0906658362066346
+  },
+  {
+    "formula": "NaSbF6",
+    "true_gap_eV": 3.76,
+    "pred_gap_eV": 4.848810329298219,
+    "abs_error_eV": 1.0888103292982194
+  },
+  {
+    "formula": "CeTl2P2S7",
+    "true_gap_eV": 2.4,
+    "pred_gap_eV": 1.3344237185930683,
+    "abs_error_eV": 1.0655762814069316
+  },
+  {
+    "formula": "NaYb(PS3)2",
+    "true_gap_eV": 1.85,
+    "pred_gap_eV": 2.9051588706407006,
+    "abs_error_eV": 1.0551588706407005
+  },
+  {
+    "formula": "Cd0.01Hg0.99Se1",
+    "true_gap_eV": 1.72,
+    "pred_gap_eV": 0.6743876632747785,
+    "abs_error_eV": 1.0456123367252215
+  },
+  {
+    "formula": "BaCu2SnSe4",
+    "true_gap_eV": 0.48,
+    "pred_gap_eV": 1.5182976567866855,
+    "abs_error_eV": 1.0382976567866855
+  },
+  {
+    "formula": "CsBi2",
+    "true_gap_eV": 0.55,
+    "pred_gap_eV": 1.5746175051030706,
+    "abs_error_eV": 1.0246175051030706
+  },
+  {
+    "formula": "NbCu3Se4",
+    "true_gap_eV": 2.45,
+    "pred_gap_eV": 1.428573865119791,
+    "abs_error_eV": 1.0214261348802092
+  },
+  {
+    "formula": "TiS3",
+    "true_gap_eV": 0.9,
+    "pred_gap_eV": 1.918028378717214,
+    "abs_error_eV": 1.0180283787172142
+  },
+  {
+    "formula": "MnAl3",
+    "true_gap_eV": 0.58,
+    "pred_gap_eV": 1.5836858046903899,
+    "abs_error_eV": 1.0036858046903898
+  },
+  {
+    "formula": "BaNaB5O9",
+    "true_gap_eV": 4.78,
+    "pred_gap_eV": 5.774743434126382,
+    "abs_error_eV": 0.9947434341263817
+  },
+  {
+    "formula": "V2Pb4(Se2O7)3",
+    "true_gap_eV": 3.37,
+    "pred_gap_eV": 2.3800316586924617,
+    "abs_error_eV": 0.9899683413075384
+  },
+  {
+    "formula": "Sm2Se3",
+    "true_gap_eV": 2.3,
+    "pred_gap_eV": 1.3234640488504397,
+    "abs_error_eV": 0.9765359511495602
+  },
+  {
+    "formula": "AsP",
+    "true_gap_eV": 0.23,
+    "pred_gap_eV": 1.1775497013917553,
+    "abs_error_eV": 0.9475497013917553
+  },
+  {
+    "formula": "P2Os",
+    "true_gap_eV": 1.13,
+    "pred_gap_eV": 0.18360107889624144,
+    "abs_error_eV": 0.9463989211037585
+  },
+  {
+    "formula": "Cs3PW3O13",
+    "true_gap_eV": 3.27,
+    "pred_gap_eV": 4.2144633374325275,
+    "abs_error_eV": 0.9444633374325275
+  },
+  {
+    "formula": "Ce2S3",
+    "true_gap_eV": 1.12,
+    "pred_gap_eV": 2.0628814532134445,
+    "abs_error_eV": 0.9428814532134444
+  },
+  {
+    "formula": "LiAsS2",
+    "true_gap_eV": 1.6,
+    "pred_gap_eV": 2.5418836553911603,
+    "abs_error_eV": 0.9418836553911603
+  },
+  {
+    "formula": "La3GaCuSe7",
+    "true_gap_eV": 1.36,
+    "pred_gap_eV": 2.301153656667643,
+    "abs_error_eV": 0.9411536566676431
+  },
+  {
+    "formula": "RbMoPO6",
+    "true_gap_eV": 2.96,
+    "pred_gap_eV": 3.889303671370178,
+    "abs_error_eV": 0.9293036713701781
+  }
+]

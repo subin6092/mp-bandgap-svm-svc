@@ -1,0 +1,11 @@
+{
+  "svc_best_params": {
+    "svc__C": 10,
+    "svc__gamma": "scale"
+  },
+  "svr_best_params": {
+    "svr__C": 10,
+    "svr__epsilon": 0.1,
+    "svr__gamma": "scale"
+  }
+}
